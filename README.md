@@ -239,6 +239,7 @@
 * LiveChat https://developers.livechatinc.com/blog/
 * LiveRamp https://liveramp.com/engineering/
 * Localytics http://eng.localytics.com/
+* Localz https://medium.com/localz-engineering
 * Lyft https://eng.lyft.com/
 
 #### M companies
